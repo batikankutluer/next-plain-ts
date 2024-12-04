@@ -23,7 +23,8 @@
       "@H/*": ["./src/app/hooks/*"],
       "@A/*": ["./src/app/actions/*"],
       "@L/*": ["./src/app/lib/*"]
-    }
+    },
+    "target": "ES2017"
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
