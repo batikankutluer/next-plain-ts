@@ -1,6 +1,6 @@
 {
   "name": "next-plain-ts",
-  "version": "0.1.0",
+  "version": "14.2.14",
   "private": false,
   "scripts": {
     "dev": "next dev",
